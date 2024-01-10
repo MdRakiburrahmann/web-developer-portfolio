@@ -158,10 +158,12 @@ main section {
     margin-bottom: 30px;
 }
 
-.rresume-column-container {
-    display: flex;
+.resume-column-container {
+    display:flex;
     gap: 70px;
 }
+
+
 
 .resume-item-title {
     color: #474747;
